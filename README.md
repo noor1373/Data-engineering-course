@@ -18,15 +18,16 @@ The course focuses on data engineering concepts such as data ingestion, data pip
 - Git & GitHub
 
 ## Repository Structure
-data-engineering-course/
 
-├── lectures/ # Lecture code and notes
-├── exercises/ # Course exercises
-├── projects/ # Course projects
-├── notebooks/ # Jupyter notebooks
-├── src/ # Python source code
-└── data/ # Datasets
-
+```text
+.
+├── lectures/       # Lecture code and notes
+├── exercises/      # Course exercises
+├── projects/       # Course projects
+├── notebooks/      # Jupyter notebooks
+├── src/            # Python source code
+└── data/           # Datasets
+```
 
 ## Goals
 
